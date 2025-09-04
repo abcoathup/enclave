@@ -18,7 +18,7 @@ export default {
   project: {
     link: "https://github.com/gnosisguild/enclave",
   },
-  docsRepositoryBase: "https://github.com/gnosisguild/enclave-docs",
+  docsRepositoryBase: "https://github.com/gnosisguild/enclave",
   darkMode: false,
   nextThemes: {
     defaultTheme: "light",
